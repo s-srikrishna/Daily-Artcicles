@@ -27,5 +27,5 @@ Achieve Yearly Goals in 12 Weeks with the 12-Week-Year Method:-
 </p></h3>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?&label=The%20End&color=0e75b6&style=flat" alt="s-srikrishna" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=s-srikrishna&label=The%20End&color=0e75b6&style=flat" alt="s-srikrishna" /> </p>
 
