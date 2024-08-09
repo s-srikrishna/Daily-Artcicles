@@ -29,3 +29,5 @@ Achieve Yearly Goals in 12 Weeks with the 12-Week-Year Method:-
 
 <a href="https://github.com/s-srikrishna" class="button pill" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: #ffffff; background-color: ##ae3ec9; text-decoration: none; border-radius: 5px; text-align: center;" align="center">The End</a>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=s-srikrishna&label=The%20End&color=0e75b6&style=flat" alt="s-srikrishna" /> </p>
+
