@@ -1,7 +1,7 @@
 <h1 align="center">How to Change Your Life in 12 Weeks Instead of 12 Months</h1><hr />
 <p align="center">We can effectively accomplish our yearly goals in just 12 weeks without burning out, and here’s how!<br /><br />
 <img src="https://c4.wallpaperflare.com/wallpaper/769/365/108/goal-art-arrow-arrows-wallpaper-preview.jpg" ></p>
-<h1><p align="left">
+<h2><p align="left" text-align="justify">
 Achieve Yearly Goals in 12 Weeks with the 12-Week-Year Method:-
 
   1. The 12-Week-Year Method:
@@ -24,5 +24,5 @@ Achieve Yearly Goals in 12 Weeks with the 12-Week-Year Method:-
   6. Personal Testimony:
       - The method has proven effective for the author, allowing them to achieve goals that they previously thought would take much longer.
 
-</p></h1>
+</p></h2>
 <button align="center">The End</button>
