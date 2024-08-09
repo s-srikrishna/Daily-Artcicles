@@ -25,5 +25,5 @@ Achieve Yearly Goals in 12 Weeks with the 12-Week-Year Method:-
       - The method has proven effective for the author, allowing them to achieve goals that they previously thought would take much longer.
 
 </p></h2>
-<a href="#" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: #ffffff; background-color: #007bff; text-decoration: none; border-radius: 5px; text-align: center;">The End</a>
+<button href="https://github.com/s-srikrishna" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: #ffffff; background-color: #007bff; text-decoration: none; border-radius: 5px; text-align: center;">The End</button>
 
